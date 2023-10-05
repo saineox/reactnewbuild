@@ -6,7 +6,7 @@
 
 <p>To automatically deploy the React app from Docker Hub, run the following command:</p>
 
-<pre><code>docker run -d -p 8080 pradeeptraje/react-app:latest</code></pre>
+<pre><code>docker run -d -p 8080:80 pradeeptraje/react-app:latest</code></pre>
 
 <p>This command will pull the latest version of the React app image from Docker Hub and run it in a container.</p>
 
