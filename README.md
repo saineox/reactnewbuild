@@ -4,6 +4,10 @@ docker run -d -p 80:80 pradeeptraje/react-app:latest
 <br><br>
 #Steps for build and run
 <br>
+git clone https://github.com/saineox/reactnewbuild.git
+<br>
+cd reactnewbuild
+<br>
 docker build . -t react-app
 <br>
 docker run -d -p 80:80 react-app
