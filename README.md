@@ -41,3 +41,7 @@ cd reactnewbuild</code></pre>
 <pre><code>docker cp ./reactnewbuild/. react-app:/usr/share/nginx/html</code></pre>
 
 </ol>
+
+<img src="https://i.imgur.com/hZoqFix.png" alt="pradeep kadam react app">
+<br>
+<a href="https://i.imgur.com/jIT8zsm.png"><img src="https://i.imgur.com/jIT8zsmm.jpg" alt="pradeep kadam github"></a>
